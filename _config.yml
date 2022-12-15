@@ -1,6 +1,6 @@
 title: Title
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/linkshort-logo.png
+favicon: /images/linkshort-logo.ico
 
 # Site colors
 colors:
