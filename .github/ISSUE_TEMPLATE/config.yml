@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Need help with Isomer? Got questions?
+    url: https://github.com/icepcp/RunIsomer/discussions/new
+    about: Open a new discussion and categorise it as Q&A
