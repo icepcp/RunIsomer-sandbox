@@ -2,4 +2,4 @@ collections:
   mario-man:
     output: true
     order:
-      - index.md
+      - luigi.md
