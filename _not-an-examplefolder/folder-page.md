@@ -1,6 +1,6 @@
 ---
 title: Folder Page
-permalink: "/example-folder/folder-page"
+permalink: /example-folder/folder-page
 ---
 
 # h
