@@ -1,5 +1,0 @@
-collections:
-  mario-man:
-    output: true
-    order:
-      - luigi.md

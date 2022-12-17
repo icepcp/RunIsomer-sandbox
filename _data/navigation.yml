@@ -11,7 +11,5 @@ links:
     url: /contact-us/
   - title: Example Page
     url: /example-page/
-  - title: Example Folderh
-    collection: example-folders
-  - title: Mario Man
-    collection: mario-man
+  - title: Who We Are
+    collection: who-we-are
